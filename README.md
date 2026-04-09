@@ -20,7 +20,6 @@ This project demonstrates a complete **CI/CD pipeline** using GitHub Actions for
 
 * Node.js
 * Docker
-* PostgreSQL
 * GitHub Actions
 
 ---
